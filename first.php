@@ -1,9 +1,6 @@
 <?php
 
-<<<<<<< HEAD
-$nama "Ariansyah";
-=======
-$nama = "Ronaldo";
->>>>>>> feature/first_branch
+$first_name = "Ronaldo";
+$last_name = "Cristioano";
 
-echo $nama;
+echo $first_name.$last_name;
